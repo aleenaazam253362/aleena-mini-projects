@@ -1,3 +1,3 @@
 # aleenademo
-this is my first git hub repository
-author -aleena azam
+this is my first git hub repository <br>
+Author -Aleena azam
